@@ -4,5 +4,5 @@
 
 
 ## 參考文獻：
-1. ##### 可視化神器Plotly_Express詳解 <https://www.jianshu.com/p/41735ecd3f75>
-2. ##### Plotly Express in Python <https://plotly.com/python/plotly-express/>
+1. 可視化神器Plotly_Express詳解 <https://www.jianshu.com/p/41735ecd3f75>
+2. Plotly Express in Python <https://plotly.com/python/plotly-express/>
