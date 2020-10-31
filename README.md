@@ -2,11 +2,12 @@
 
 ## **Plotly_Express_in_Python**
 
-### <font color="Blue"> 學號：CE1091759 潘勝章</font> 
+### 學號：CE1091759 潘勝章
+
 
 
 ## 參考文獻：
-1. [可視化神器Plotly_Express詳解](https://www.jianshu.com/p/41735ecd3f75)
+1. **[可視化神器Plotly_Express詳解](https://www.jianshu.com/p/41735ecd3f75)**
 2. [Plotly Express in Python](https://plotly.com/python/plotly-express/)
 3. [Python 可视化神器：Plotly Express 入门之路](http://liyangbit.com/pythonvisualization/Plotly-Express-introduction-cn/)
 4. [Google colab实现 Plotly Express数据可视化](https://zhuanlan.zhihu.com/p/106834263)
